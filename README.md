@@ -17,8 +17,8 @@ Considerando que tudo esta configurado, seguiremos com o tutorial
 
 Crie um projeto ionic vazio
 
-    ionic start DatabaseExample blank
-    cd DatabaseExample
+    ionic start ionic-sqlite blank
+    cd ionic-sqlite
   
 Incluir a plataforma Android ao projeto
 
