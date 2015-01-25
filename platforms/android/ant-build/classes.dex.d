@@ -1,0 +1,20 @@
+D:\node\DatabaseExample\platforms\android\ant-build\classes.dex : \
+D:\node\DatabaseExample\platforms\android\ant-build\classes\com\ionic\keyboard\IonicKeyboard$1.class \
+D:\node\DatabaseExample\platforms\android\ant-build\classes\com\ionic\keyboard\IonicKeyboard$2.class \
+D:\node\DatabaseExample\platforms\android\ant-build\classes\com\ionic\keyboard\IonicKeyboard$3.class \
+D:\node\DatabaseExample\platforms\android\ant-build\classes\com\ionic\keyboard\IonicKeyboard.class \
+D:\node\DatabaseExample\platforms\android\ant-build\classes\com\ionicframework\databaseexample120285\BuildConfig.class \
+D:\node\DatabaseExample\platforms\android\ant-build\classes\com\ionicframework\databaseexample120285\CordovaApp.class \
+D:\node\DatabaseExample\platforms\android\ant-build\classes\com\ionicframework\databaseexample120285\R$attr.class \
+D:\node\DatabaseExample\platforms\android\ant-build\classes\com\ionicframework\databaseexample120285\R$drawable.class \
+D:\node\DatabaseExample\platforms\android\ant-build\classes\com\ionicframework\databaseexample120285\R$string.class \
+D:\node\DatabaseExample\platforms\android\ant-build\classes\com\ionicframework\databaseexample120285\R$xml.class \
+D:\node\DatabaseExample\platforms\android\ant-build\classes\com\ionicframework\databaseexample120285\R.class \
+D:\node\DatabaseExample\platforms\android\ant-build\classes\org\apache\cordova\device\Device.class \
+D:\node\DatabaseExample\platforms\android\ant-build\classes\org\pgsqlite\SQLitePlugin$1.class \
+D:\node\DatabaseExample\platforms\android\ant-build\classes\org\pgsqlite\SQLitePlugin$Action.class \
+D:\node\DatabaseExample\platforms\android\ant-build\classes\org\pgsqlite\SQLitePlugin$DBQuery.class \
+D:\node\DatabaseExample\platforms\android\ant-build\classes\org\pgsqlite\SQLitePlugin$DBRunner.class \
+D:\node\DatabaseExample\platforms\android\ant-build\classes\org\pgsqlite\SQLitePlugin$QueryType.class \
+D:\node\DatabaseExample\platforms\android\ant-build\classes\org\pgsqlite\SQLitePlugin.class \
+D:\node\DatabaseExample\platforms\android\ant-build\dexedLibs\classes-7ff8ffa9c40ab5df82fc78012634fab2.jar \
