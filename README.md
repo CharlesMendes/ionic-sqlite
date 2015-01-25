@@ -16,16 +16,20 @@ Considerando que tudo esta configurado, seguiremos com o tutorial
 -PS: todos os comandos devem ser executados no prompt de comando
 
 Crie um projeto ionic vazio
+
     ionic start DatabaseExample blank
     cd DatabaseExample
   
 Incluir a plataforma Android ao projeto
+
     ionic platform add android
 
 Caso esteja rodando em um Mac, pode incluir a plataforma ios tambem (não abordaremos essa plataforma)
+
     ionic platform add ios
   
 Incluir o plugin de acesso a banco de dados SQLite
+
     cordova plugin add https://github.com/brodysoft/Cordova-SQLitePlugin.git
 
 ## Customizando o projeto
@@ -35,13 +39,16 @@ Ate aqui seu projeto esta criado, vamos agora configurar o acesso ao banco de da
 
 ## Deploy do app Android
 Vamos gerar o .apk correspondente ao aplicativo
+
     ionic build android
   
 ## Instalar no device/smartphone android
 Temos que testar nosso app no nosso celular, basta pluga-lo no usb e ativar o modo de depuração e executar o seguinte comando para instalar no aparelho:
+
     adb install -r platforms/android/ant-build/CordovaApp-debug.apk
   
 (OPCIONAL) Caso queira monitorar as atividades do celular, inclusive todos os logs que incluimos no Console (codigo do app.j controllers), basta ativar o logcat pelo comando:
+
     adb logcat
 
 ### Pronto, criamos uma aplicação com acesso a banco de dados do zero usando o ionic e fizemos o deploy para o celular android!
