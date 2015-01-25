@@ -1,7 +1,7 @@
 # ionic-sqlite
 Criando uma app Android com IONIC acessando banco de dados via SQLITE (ngCordova)
 
-## Pre requisitos (Ambiente)
+## Pré requisitos (Ambiente)
 Ter instalado e configurado as variaveis de ambiente: 
 (postarei aqui depois como montar o ambiente)
 * nodejs
@@ -55,6 +55,10 @@ Temos que testar nosso app no nosso celular, basta pluga-lo no usb e ativar o mo
 Quem quiser dar um fork no projeto e melhorar ele, criando novas funcionalidades, como delete ou update, etc.. fiquem a vontade, vamos deixar esse exemplo o mais completo possivel!
 
 Duvidas podem enviar email para contato@charlesmendes.com
+
+## Créditos
+Esse código foi elaborado com base no tutorial do Nic Raboy:
+https://blog.nraboy.com/2014/11/use-sqlite-instead-local-storage-ionic-framework/
 
 ##License
 MIT, see LICENSE.
